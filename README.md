@@ -6,9 +6,8 @@
 - 🎶 Fun fact: I like listen to music and play game. 
 <br/>
 
-<img align="center" width="100px" src="https://user-images.githubusercontent.com/68103697/142725485-c2f3752e-1a59-4555-b71a-9ce83ff1f8b7.jpg">
-<br/>
----
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/68103697/142725485-c2f3752e-1a59-4555-b71a-9ce83ff1f8b7.jpg"/>
+
 ### Connect with me:
 ---
 ### Languages and Frameworks:
