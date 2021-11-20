@@ -9,7 +9,7 @@
 <tr>
   <td width="48%">
     <img src="https://github-readme-stats.vercel.app/api?username=NoNUser2412&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoNUser2412&layout=compact&show_icons=true&hide_border=true" />
+    <img src=(https://github-readme-stats.vercel.app/api?username= NoNUser2412 &theme=dark&show_icons=true)/>
   </td>
 </tr>
 <table>
