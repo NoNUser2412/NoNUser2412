@@ -1,27 +1,23 @@
-### Hi, I'm Quan Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXplore][website] = Software Engineer + Youtuber 🌱 
+### Hi, I'm Hai Huynh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [website] 🌱 
 
 
 - 🔭 I'm passionate about Data Science (DS), Machine Learning, AI & Blockchain
-- Awarded Vingroup Young Talent Scholarship for Master #AI @ SMU
-- 🥅 2021 Goals: Working on more DS Projects
-- ⚡ Fun fact: I work in Singapore but travel to Vietnam every two week before Covid 😅
 
 ### :zap: GitHub Stats
 
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodexploreRepo&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexploreRepo&layout=compact&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NoNUser2412&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoNUser2412&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
 </tr>
 <table>
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="26px" src="![image](https://user-images.githubusercontent.com/68103697/142711592-1c41fad4-11a2-4cd6-bb96-65cbcf1d5684.png) />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
