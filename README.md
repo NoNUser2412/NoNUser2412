@@ -4,8 +4,10 @@
 - 🐱‍💻 I'm currently studying at HCMUS - Falculty of Mathematics & Computer Science.
 - 🧑‍💻 I'm currently learing about Data Science, AI, Blockchain, and Backend.
 - 🎶 Fun fact: I like listen to music and play game. 
-- <br/>
- ![coding-and-testing-programming-of-software](https://user-images.githubusercontent.com/68103697/142725402-187e0622-b247-4bf2-9c60-7579ed4ae473.jpg)
+<br/>
+
+<img align="left" width="100%" src="https://user-images.githubusercontent.com/68103697/142725485-c2f3752e-1a59-4555-b71a-9ce83ff1f8b7.jpg">
+
 ---
 ### Connect with me:
 ---
@@ -19,6 +21,7 @@
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
 
 
 
