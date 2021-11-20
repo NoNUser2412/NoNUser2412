@@ -8,6 +8,7 @@
 <table>
 <tr>
   <td width="48%">
+    <h1>Xin chào các bạn</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=NoNUser2412&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src=(https://github-readme-stats.vercel.app/api?username= NoNUser2412 &theme=dark&show_icons=true)/>
   </td>
