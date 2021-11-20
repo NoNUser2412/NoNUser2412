@@ -8,15 +8,13 @@
 <table>
 <tr>
   <td width="48%">
-    <h1 class="Hello">Xin chào các bạn</h1>
+    <h1 color="red">Xin chào các bạn</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=NoNUser2412&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src=(https://github-readme-stats.vercel.app/api?username= NoNUser2412 &theme=dark&show_icons=true)/>
   </td>
 </tr>
 <table>
-.Hello {
-    color: red;
- }
+
 ### Languages and Tools:
 
 <img align="left" alt="Golang" width="26px" src="https://github.com/NoNUser2412/NoNUser2412/blob/main/Golang.png "/>
