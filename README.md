@@ -1,16 +1,17 @@
-### Hi there, I'm NoN - aka 
+# Hi there, I'm NoN - aka Hải Huỳnh
 
 ## I 'm a Freshman!
-- 🐱‍💻 I'm currently studying at HCMUS - Falculty of Mathematics & Computer Science.
-- 🧑‍💻 I'm currently learing about Data Science, AI, Blockchain, and Backend.
+- 🐱‍💻 I'm currently studying at _HCMUS - Falculty of Mathematics & Computer Science._
+- 🧑‍💻 I'm currently learing about **Data Science, AI, Blockchain, and Backend.**
 - 🎶 Fun fact: I like listen to music and play game. 
 <br/>
 
-<img align="left" width="100%" src="https://user-images.githubusercontent.com/68103697/142725485-c2f3752e-1a59-4555-b71a-9ce83ff1f8b7.jpg">
-
+<img align="center" width="75%" src="https://user-images.githubusercontent.com/68103697/142725485-c2f3752e-1a59-4555-b71a-9ce83ff1f8b7.jpg">
+<br/>
 ---
 ### Connect with me:
 ---
+<br/>
 ### Languages and Frameworks:
 
 <img align="left" alt="Golang" width="30px" src="https://user-images.githubusercontent.com/68103697/142724478-7fabd2a7-0282-4fa6-9b2c-e4c91fe2f69e.png" />
