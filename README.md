@@ -10,6 +10,13 @@
 
 ### Connect with me:
 ---
+<br/>
+
+## Github Stats
+![NoN's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoNUser2412&show_icons=true&theme=radical&bg_color=135,38adae,cd295a&title_color=ab07dd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoNUser2412&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 ### Languages and Frameworks:
 
 <img align="left" alt="Golang" width="30px" src="https://user-images.githubusercontent.com/68103697/142724478-7fabd2a7-0282-4fa6-9b2c-e4c91fe2f69e.png" />
