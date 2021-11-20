@@ -4,6 +4,7 @@
 - 🐱‍💻 I'm currently studying at HCMUS - Falculty of Mathematics & Computer Science.
 - 🧑‍💻 I'm currently learing about Data Science, AI, Blockchain, and Backend.
 - 🎶 Fun fact: I like listen to music and play game. 
+- <br/>
  ![coding-and-testing-programming-of-software](https://user-images.githubusercontent.com/68103697/142725402-187e0622-b247-4bf2-9c60-7579ed4ae473.jpg)
 ---
 ### Connect with me:
