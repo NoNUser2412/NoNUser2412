@@ -1,19 +1,11 @@
-### Hi, I'm Hai Huynh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [website] 🌱 
+### Hi there, I'm NoN - aka 
 
+## I 'm a Freshman!
+- 🐱‍💻 I'm currently studying at HCMUS - Falculty of Mathematics & Computer Science.
+- 🧑‍💻 I'm currently learing about Data Science, AI, Blockchain, and Backend.
+- 🎶 Fun fact: I like listen to music and play game. 
 
-- 🔭 I'm passionate about Data Science (DS), Machine Learning, AI & Blockchain
-
-### :zap: GitHub Stats
-
-<table>
-<tr>
-  <td width="48%">
-    <h1 color="red">Xin chào các bạn</h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=NoNUser2412&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src=(https://github-readme-stats.vercel.app/api?username= NoNUser2412 &theme=dark&show_icons=true)/>
-  </td>
-</tr>
-<table>
+### Connect with me:
 
 ### Languages and Tools:
 
@@ -32,4 +24,14 @@
 <br />
 <br />
 
----
+<table>
+<tr>
+  <td width="48%">
+    <h1 color="red">Xin chào các bạn</h1>
+    <img src="https://github-readme-stats.vercel.app/api?username=NoNUser2412&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src=(https://github-readme-stats.vercel.app/api?username= NoNUser2412 &theme=dark&show_icons=true)/>
+  </td>
+</tr>
+<table>
+
+
