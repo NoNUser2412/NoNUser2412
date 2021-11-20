@@ -9,7 +9,8 @@
 
 ### Languages and Frameworks:
 
-![Golang](https://github.com/NoNUser2412/NoNUser2412/blob/main/Golang.png)
+<img align="left" alt="Golang" width="52px" src="https://user-images.githubusercontent.com/68103697/142724293-eaabba56-67f7-4c18-b9f8-754b7c9571a2.png" />
+<img align="left" alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -18,3 +19,4 @@
 <br />
 ====
 
+![Golang](https://user-images.githubusercontent.com/68103697/142724293-eaabba56-67f7-4c18-b9f8-754b7c9571a2.png)
