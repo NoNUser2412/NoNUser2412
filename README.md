@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Golang" width="26px" src="https://github.com/NoNUser2412/NoNUser2412/blob/main/Golang.png /">
+<img align="left" alt="Golang" width="26px" src="https://github.com/NoNUser2412/NoNUser2412/blob/main/Golang.png "/>
 <img align="left" alt="HTML5" width="26px" src="![image](https://user-images.githubusercontent.com/68103697/142711592-1c41fad4-11a2-4cd6-bb96-65cbcf1d5684.png) />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
