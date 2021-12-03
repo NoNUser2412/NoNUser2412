@@ -22,11 +22,12 @@
 <img align="left" alt="Golang" width="30px" src="https://user-images.githubusercontent.com/68103697/142724478-7fabd2a7-0282-4fa6-9b2c-e4c91fe2f69e.png" />
 <img align="left" alt="Rust" width="30px" src="https://user-images.githubusercontent.com/68103697/144558007-40247b09-895d-4e03-a2b3-98671ae9ac37.png" />
 <img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/68103697/142724552-862e2407-0597-4c3c-aab7-c369e5b3f81d.png" />
+<img align="left" alt="TypeScript" width="30px" src="https://user-images.githubusercontent.com/68103697/144558334-ab1514d0-d270-4698-9dd5-344c270c9f61.png" />
 <img align="left" alt="Jupyter Notebook" width="30px" src="https://user-images.githubusercontent.com/68103697/142725253-964446be-3ba8-4e22-a9e0-e7fd7d644f33.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Gin" width="26px" src="https://user-images.githubusercontent.com/68103697/142725206-25310997-6dae-4280-8277-3db815485dcf.png" />
+
 
 
 
